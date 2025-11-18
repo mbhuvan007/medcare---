@@ -1,3 +1,10 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "patient-photo",
+      "description": "A placeholder image for a patient's profile picture.",
+      "imageUrl": "https://images.unsplash.com/photo-1627305748663-1f5dd7a30e90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwb3J0cmFpdCUyMGVsZGVybHklMjB3b21hbnxlbnwwfHx8fDE3NjM0NDcxODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portrait elderly woman"
+    }
+  ]
 }
