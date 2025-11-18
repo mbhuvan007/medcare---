@@ -37,7 +37,7 @@ export const medicationSchedule = [
   {
     time: 'Afternoon',
     icon: 'CloudSun',
-    color: 'bg-sky-400',
+    color: 'bg-blue-500',
     medicines: [
       { name: 'Aspirin', dosage: '81mg', shape: 'round', color: 'bg-orange-300' },
     ],
@@ -45,7 +45,7 @@ export const medicationSchedule = [
   {
     time: 'Night',
     icon: 'Moon',
-    color: 'bg-indigo-500',
+    color: 'bg-red-500',
     medicines: [
       { name: 'Simvastatin', dosage: '20mg', shape: 'capsule', color: 'bg-pink-300' },
       { name: 'Vitamin D', dosage: '1000 IU', shape: 'oval', color: 'bg-yellow-200' },
